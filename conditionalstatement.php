@@ -3,7 +3,7 @@ $num1=76;
 $num2=23;
 $age=17;
 $marks=100;
-$marks2=90;
+$marks2=100;
 
 //if statement
 if ($num1>$num2){
