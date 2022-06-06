@@ -35,4 +35,3 @@ echo"<br>";
 $num=array(50,100,200,40);
 var_dump($num);
 unset($num[2]);
-$num
